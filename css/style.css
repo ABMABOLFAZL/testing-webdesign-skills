@@ -1,0 +1,23 @@
+/*
+Im going good with css using some references
+ 
+*/
+body{
+    background-color: #444444;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10;
+    max-width: 1920px;
+    max-height: 1080px;
+}
+
+header{
+    max-width: 100%;
+    max-height: auto;
+    float: top;
+}
+.headimg{
+    max-width: 100%;
+    max-height: auto;
+}
