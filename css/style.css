@@ -1,6 +1,7 @@
 /*
-Im going good with css using some references
- 
+Im going good with css using some references.
+    ---
+ok going good so far.
 */
 body{
     background-color: #444444;
@@ -20,4 +21,27 @@ header{
 .headimg{
     max-width: 100%;
     max-height: auto;
+}
+nav{
+    max-width: 100%;
+    max-height: auto;
+}
+.nav-bar{
+    float: top;
+    position: fixed;
+    background: #444410;
+}
+.nav-btns{
+    background-color: green;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
 }
